@@ -1,6 +1,10 @@
-# heatwave
-
 # Marine Heatwaves detection code
+
+# Usage
+
+To detect marine heatwaves using Copernicus marine data run the file heatwaves_barents.ipynb in a Jupyter Notebook. 
+
+# Marine Heatwaves package
 
 marineHeatWaves is a module for python which implements the Marine Heatwave (MHW) definition of Hobday et al. (2016). A version written in R is also [available](https://robwschlegel.github.io/heatwaveR/index.html).
 
