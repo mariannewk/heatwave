@@ -2,7 +2,9 @@
 
 # Usage
 
-To detect marine heatwaves in the Barents Sea using Copernicus marine data run the file heatwaves_barents.ipynb in a Jupyter Notebook. Originally authored by Vidar Lien using the marineHeatWaves package (see below), this Python code has been adapted into a Jupyter Notebook by Marianne Williams-Kerslake.
+To detect marine heatwaves in the Barents Sea using Copernicus marine data run the file heatwaves_barents.ipynb in a Jupyter Notebook. 
+
+Originally authored by Vidar Lien using the marineHeatWaves package (see below), this Python code has been adapted into a Jupyter Notebook by Marianne Williams-Kerslake. When running the Jupyter Notebook in EDITO the marineHeatWaves is already installed. 
 
 # Marine Heatwaves package
 
