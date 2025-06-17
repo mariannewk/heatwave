@@ -2,7 +2,7 @@
 
 # Usage
 
-To detect marine heatwaves using Copernicus marine data run the file heatwaves_barents.ipynb in a Jupyter Notebook. 
+To detect marine heatwaves using Copernicus marine data run the file heatwaves_barents.ipynb in a Jupyter Notebook. Originally authored by Vidar Lien using the marineHeatWaves package (see below), this Python code has been adapted into a Jupyter Notebook by Marianne Williams-Kerslake.
 
 # Marine Heatwaves package
 
@@ -50,19 +50,7 @@ Inside the documentation folder are the following helpful files and scripts:
 
 Hobday, A.J. et al. (2016), A hierarchical approach to defining marine heatwaves, Progress in Oceanography, 141, pp. 227-238, doi: 10.1016/j.pocean.2015.12.014 [pdf](http://passage.phys.ocean.dal.ca/~olivere/docs/Hobdayetal_2016_PO_HierarchMHWDefn.pdf)
 
-# Acknowledgements
-
-The code was written by Eric C. J. Oliver.
-
-Contributors to the Marine Heatwaves definition and its numerical implementation include  Alistair J. Hobday, Lisa V. Alexander, Sarah E. Perkins, Dan A. Smale, Sandra C. Straub, Jessica Benthuysen, Michael T. Burrows, Markus G. Donat, Ming Feng, Neil J. Holbrook, Pippa J. Moore, Hillary A. Scannell, Alex Sen Gupta, and Thomas Wernberg.
-
 # Contact
 
-Eric C. J. Oliver  
-Department of Oceanography  
-Dalhousie University  
-Halifax, Nova Scotia, Canada  
-t: (61) 902 494-2505  
-e: eric.oliver@dal.ca  
-w: http://ecjoliver.weebly.com  
-w: https://github.com/ecjoliver  
+marianne.williams-kerslake@nersc.no  
+ 
